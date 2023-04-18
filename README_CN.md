@@ -76,7 +76,7 @@ code1,code2,code3
 
 ### `OPENAI_API_KEY` （必填项）
 
-OpanAI 密钥，你在 openai 账户页面申请的 api key。
+OpenAI 密钥，你在 openai 账户页面申请的 api key。
 
 ### `CODE` （可选）
 
